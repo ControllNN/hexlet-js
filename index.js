@@ -8,3 +8,4 @@ const a = 10;
 const b = (a) => {
   return a + b;
 };
+console.log(a);console.log(b)
